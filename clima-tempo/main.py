@@ -30,7 +30,7 @@ def exibir_previsao_tempo(dados_previsao):
 
 
 def main():
-    api_key = "2db0dd62cbc23da4ad36140166693cfc"
+    api_key = "" //colocar sua api
     cidade = input("Digite o nome da cidade: ")
     estado = input("Digite a sigla do estado: ")
 
